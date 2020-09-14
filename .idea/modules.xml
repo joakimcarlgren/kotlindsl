@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gradle_KTS.iml" filepath="$PROJECT_DIR$/.idea/modules/Gradle_KTS.iml" group="Gradle_KTS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gradle_KTS_buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Gradle_KTS_buildSrc.iml" group="Gradle KTS/Gradle_KTS_buildSrc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Gradle KTS/app" />
     </modules>
   </component>
